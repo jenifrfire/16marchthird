@@ -1,0 +1,160 @@
+body{
+    padding: 0;
+    margin: 0;
+
+}
+.conteiner{
+    max-width: 1200px;
+    padding: 0 15px;
+    margin: 0 auto;
+
+}
+.header{
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    background-color: rgb(26, 72, 255);
+    text-align: center;
+    padding: 20px 0;
+
+}
+.logo{
+    
+    margin-bottom: 20px;
+    display: inline-block;
+}
+.nav a{
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    margin: 0 10px;
+}
+.sain-block{
+    text-align: center;
+    background-image: url(../img/main-pic.jpg) ;
+    padding: 150px 0 220px;
+    background-size: cover;
+    color: white;
+    box-sizing: border-box;
+}
+
+
+.title{
+    margin: 0 0 20px;
+    text-transform: uppercase;
+    font-size: 40px;
+    letter-spacing: 15px;
+}
+.info{
+    width: 750px;
+    margin: 0 auto;
+}
+.butoon{
+    position: fixed;
+    right: 1%;
+    bottom: 0;
+    background-color: #cfc91d;
+    border-radius: 15px;
+    padding: 10px 15px ; 
+    margin-top: 50px;
+    display: inline-block;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #000;
+}
+.about-block{
+    text-align: center;
+    padding: 60px 0;
+}
+.about-title{
+    text-transform: uppercase;
+    color: #04918f
+}
+.about-info{
+    max-width: 750px;
+    margin: 0 auto;
+    line-height: 30px
+}
+.section{
+    padding-bottom:  80px;
+}
+.card{
+    max-width: 262px;
+    color: #4f5052;
+    display: inline-block;
+     margin: 0 15px;
+     vertical-align: top;  
+     text-align: center;
+    
+}
+.card-title{
+    font-size: 30px;
+    padding: 45px 0 0;
+    background: url(../img/ic-lamp.png) 50% 0   no-repeat; 
+    text-align: center;
+    
+       
+}
+.card-title-2{
+    font-size: 30px;
+    padding: 45px 0 0;
+    background: url(../img/ic-pencil.png) 50% 0 no-repeat;
+    text-align: center;
+}
+.card-title-3{
+    font-size: 30px;
+    padding: 45px 0 0;
+    background: url(../img/ic-set.png)50% 0 no-repeat;
+    text-align: center;
+}
+.card-title-4{
+    font-size: 30px;
+    padding: 45px 0 0;
+   background: url(../img/ic-laptop.png) 50% 0 no-repeat;
+   text-align: center;
+}
+.container-2{
+    background-color: rgb(0, 0, 0);
+    font-size:15px;
+    padding: 2px 0;
+    color: gold;
+    padding: 20px 0 ;
+    
+
+    
+}
+.pain-block a{
+    color: hotpink;
+    display: inline-block;
+    text-decoration: none;
+}
+.pain-block li{
+    list-style: none;
+}
+.pain-block-2{
+    color: green;
+    text-align: right;
+    font-size: 15x;
+    padding: 0 15px ;
+    max-width: 100%;
+    
+    
+}
+ .cain{
+     text-align: right; 
+     
+    font-size: 15px;
+    color:  grey;
+
+}
+.cain p{
+    text-align: right;
+    max-width: 100%;
+    margin:  0 0 ;
+    text-transform: uppercase;
+    text-decoration: none;
+} 
+
+
+
+    
